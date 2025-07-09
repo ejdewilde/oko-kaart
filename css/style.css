@@ -1,0 +1,72 @@
+body {
+  font-family: sans-serif;
+  padding: 2rem;
+}
+
+#gemscan-map {
+  height: 600px;
+  margin-top: 1rem;
+}
+
+#oko-filter {
+  margin-left: 0.5rem;
+}
+
+#oko-buttons button {
+  margin: 0.3rem;
+  padding: 0.4rem 0.8rem;
+  border: 1px solid #888;
+  background-color: #f0f0f0;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+#oko-buttons {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.2rem;
+}
+
+#oko-buttons button.active {
+  background-color: #3c1053;
+  color: white;
+  font-weight: bold;
+}
+
+.button-group {
+  display: flex;
+  justify-content: center;
+  /* Horizontaal centreren */
+  flex-wrap: wrap;
+  /* Laat knoppen doorlopen als ze niet passen */
+  gap: 0.5rem;
+  /* Ruimte tussen de knoppen */
+  margin: 1rem 0;
+}
+
+.button-group button {
+  padding: 0.5rem 1rem;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background-color 0.2s ease;
+}
+
+.button-group button:hover {
+  background-color: #e0e0e0;
+}
+
+.button-group button.active {
+  background-color: #001f5b;
+  color: white;
+  border-color: #001f5b;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

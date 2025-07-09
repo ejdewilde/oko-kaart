@@ -1,0 +1,4169 @@
+[
+  {
+    "id": 1,
+    "naam": "Den Haag",
+    "code": "GM0518",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 2,
+    "naam": "Den Bosch",
+    "code": "GM0796",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 3,
+    "naam": "Aa en Hunze",
+    "code": "GM1680",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 4,
+    "naam": "Aalburg",
+    "code": "GM0738",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 5,
+    "naam": "Aalsmeer",
+    "code": "GM0358",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 6,
+    "naam": "Aalten",
+    "code": "GM0197",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 7,
+    "naam": "Abcoude",
+    "code": "GM0305",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 8,
+    "naam": "Achtkarspelen",
+    "code": "GM0059",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 9,
+    "naam": "Alblasserdam",
+    "code": "GM0482",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 10,
+    "naam": "Albrandswaard",
+    "code": "GM0613",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 11,
+    "naam": "Alkmaar",
+    "code": "GM0361",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 12,
+    "naam": "Almelo",
+    "code": "GM0141",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 13,
+    "naam": "Almere",
+    "code": "GM0034",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 14,
+    "naam": "Alphen aan den Rijn",
+    "code": "GM0484",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 15,
+    "naam": "Alphen-Chaam",
+    "code": "GM1723",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 16,
+    "naam": "Altena",
+    "code": "GM1959",
+    "oko_id": 1,
+    "oko_sinds": "2021",
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 17,
+    "naam": "Ameland",
+    "code": "GM0060",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 18,
+    "naam": "Amersfoort",
+    "code": "GM0307",
+    "oko_id": 2,
+    "oko_sinds": "2018",
+    "opm1": null,
+    "opm2": "was één van de pilot-gemeenten van het IJslandse model."
+  },
+  {
+    "id": 19,
+    "naam": "Amstelveen",
+    "code": "GM0362",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 20,
+    "naam": "Amsterdam",
+    "code": "GM0363",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 21,
+    "naam": "Andijk",
+    "code": "GM0364",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 22,
+    "naam": "Anna Paulowna",
+    "code": "GM0366",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 23,
+    "naam": "Apeldoorn",
+    "code": "GM0200",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 24,
+    "naam": "Appingedam",
+    "code": "GM0003",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 25,
+    "naam": "Arnhem",
+    "code": "GM0202",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 26,
+    "naam": "Assen",
+    "code": "GM0106",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 27,
+    "naam": "Asten",
+    "code": "GM0743",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 28,
+    "naam": "Baarle-Nassau",
+    "code": "GM0744",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 29,
+    "naam": "Baarn",
+    "code": "GM0308",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 30,
+    "naam": "Barendrecht",
+    "code": "GM0489",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 31,
+    "naam": "Barneveld",
+    "code": "GM0203",
+    "oko_id": 43,
+    "oko_sinds": "2024",
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 32,
+    "naam": "Bedum",
+    "code": "GM0005",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 33,
+    "naam": "Beek",
+    "code": "GM0888",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 34,
+    "naam": "Beekdaelen",
+    "code": "GM1954",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 35,
+    "naam": "Beemster",
+    "code": "GM0370",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 36,
+    "naam": "Beesel",
+    "code": "GM0889",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 37,
+    "naam": "Bellingwedde",
+    "code": "GM0007",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 38,
+    "naam": "Berg en Dal",
+    "code": "GM1945",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 39,
+    "naam": "Bergambacht",
+    "code": "GM0491",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 40,
+    "naam": "Bergeijk",
+    "code": "GM1724",
+    "oko_id": 33,
+    "oko_sinds": "2018",
+    "opm1": "Doet mee als onderdeel van de OKO-regio De Kempen",
+    "opm2": "was één van de pilot-gemeenten van het IJslandse model."
+  },
+  {
+    "id": 41,
+    "naam": "Bergen (L)",
+    "code": "GM0893",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 42,
+    "naam": "Bergen (NH)",
+    "code": "GM0373",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 43,
+    "naam": "Bergen op Zoom",
+    "code": "GM0748",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 44,
+    "naam": "Berkelland",
+    "code": "GM1859",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 45,
+    "naam": "Bernheze",
+    "code": "GM1721",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 46,
+    "naam": "Bernisse",
+    "code": "GM0568",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 47,
+    "naam": "Best",
+    "code": "GM0753",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 48,
+    "naam": "Beuningen",
+    "code": "GM0209",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 49,
+    "naam": "Beverwijk",
+    "code": "GM0375",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 50,
+    "naam": "Binnenmaas",
+    "code": "GM0585",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 51,
+    "naam": "Bladel",
+    "code": "GM1728",
+    "oko_id": 33,
+    "oko_sinds": "2018",
+    "opm1": "Doet mee als onderdeel van de OKO-regio De Kempen",
+    "opm2": "was één van de pilot-gemeenten van het IJslandse model."
+  },
+  {
+    "id": 52,
+    "naam": "Blaricum",
+    "code": "GM0376",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 53,
+    "naam": "Bloemendaal",
+    "code": "GM0377",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 54,
+    "naam": "Boarnsterhim",
+    "code": "GM0055",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 55,
+    "naam": "Bodegraven",
+    "code": "GM0497",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 56,
+    "naam": "Bodegraven-Reeuwijk",
+    "code": "GM1901",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 57,
+    "naam": "Boekel",
+    "code": "GM0755",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 58,
+    "naam": "Bolsward",
+    "code": "GM0064",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 59,
+    "naam": "Borger-Odoorn",
+    "code": "GM1681",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 60,
+    "naam": "Borne",
+    "code": "GM0147",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 61,
+    "naam": "Borsele",
+    "code": "GM0654",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 62,
+    "naam": "Boskoop",
+    "code": "GM0499",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 63,
+    "naam": "Boxmeer",
+    "code": "GM0756",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 64,
+    "naam": "Boxtel",
+    "code": "GM0757",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 65,
+    "naam": "Breda",
+    "code": "GM0758",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 66,
+    "naam": "Breukelen",
+    "code": "GM0311",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 67,
+    "naam": "Brielle",
+    "code": "GM0501",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 68,
+    "naam": "Bronckhorst",
+    "code": "GM1876",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 69,
+    "naam": "Brummen",
+    "code": "GM0213",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 70,
+    "naam": "Brunssum",
+    "code": "GM0899",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 71,
+    "naam": "Bunnik",
+    "code": "GM0312",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 72,
+    "naam": "Bunschoten",
+    "code": "GM0313",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 73,
+    "naam": "Buren",
+    "code": "GM0214",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 74,
+    "naam": "Bussum",
+    "code": "GM0381",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 75,
+    "naam": "Capelle aan den IJssel",
+    "code": "GM0502",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 76,
+    "naam": "Castricum",
+    "code": "GM0383",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 77,
+    "naam": "Coevorden",
+    "code": "GM0109",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 78,
+    "naam": "Cranendonck",
+    "code": "GM1706",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 79,
+    "naam": "Cromstrijen",
+    "code": "GM0611",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 80,
+    "naam": "Cuijk",
+    "code": "GM1684",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 81,
+    "naam": "Culemborg",
+    "code": "GM0216",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 82,
+    "naam": "Dalfsen",
+    "code": "GM0148",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 83,
+    "naam": "Dantumadiel",
+    "code": "GM1891",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 84,
+    "naam": "De Bilt",
+    "code": "GM0310",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 85,
+    "naam": "De Friese Meren",
+    "code": "GM1921",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 86,
+    "naam": "De Fryske Marren",
+    "code": "GM1940",
+    "oko_id": 5,
+    "oko_sinds": "2023",
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 87,
+    "naam": "De Marne",
+    "code": "GM1663",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 88,
+    "naam": "De Ronde Venen",
+    "code": "GM0736",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 89,
+    "naam": "De Wolden",
+    "code": "GM1690",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 90,
+    "naam": "Delft",
+    "code": "GM0503",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 91,
+    "naam": "Delfzijl",
+    "code": "GM0010",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 92,
+    "naam": "Den Helder",
+    "code": "GM0400",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 93,
+    "naam": "Deurne",
+    "code": "GM0762",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 94,
+    "naam": "Deventer",
+    "code": "GM0150",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 95,
+    "naam": "Diemen",
+    "code": "GM0384",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 96,
+    "naam": "Dinkelland",
+    "code": "GM1774",
+    "oko_id": 6,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 97,
+    "naam": "Dirksland",
+    "code": "GM0504",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 98,
+    "naam": "Doesburg",
+    "code": "GM0221",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 99,
+    "naam": "Doetinchem",
+    "code": "GM0222",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 100,
+    "naam": "Dongen",
+    "code": "GM0766",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 101,
+    "naam": "Dongeradeel",
+    "code": "GM0058",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 102,
+    "naam": "Dordrecht",
+    "code": "GM0505",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 103,
+    "naam": "Drechterland",
+    "code": "GM0498",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 104,
+    "naam": "Drimmelen",
+    "code": "GM1719",
+    "oko_id": 60,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 105,
+    "naam": "Dronten",
+    "code": "GM0303",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 106,
+    "naam": "Druten",
+    "code": "GM0225",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 107,
+    "naam": "Duiven",
+    "code": "GM0226",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 108,
+    "naam": "Echt-Susteren",
+    "code": "GM1711",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 109,
+    "naam": "Edam-Volendam",
+    "code": "GM0385",
+    "oko_id": 7,
+    "oko_sinds": "2023",
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 110,
+    "naam": "Ede",
+    "code": "GM0228",
+    "oko_id": 8,
+    "oko_sinds": "2024",
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 111,
+    "naam": "Eemnes",
+    "code": "GM0317",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 112,
+    "naam": "Eemsmond",
+    "code": "GM1651",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 113,
+    "naam": "Eersel",
+    "code": "GM0770",
+    "oko_id": 33,
+    "oko_sinds": "2018",
+    "opm1": "Doet mee als onderdeel van de OKO-regio De Kempen",
+    "opm2": "was één van de pilot-gemeenten van het IJslandse model."
+  },
+  {
+    "id": 114,
+    "naam": "Eijsden",
+    "code": "GM0905",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 115,
+    "naam": "Eijsden-Margraten",
+    "code": "GM1903",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 116,
+    "naam": "Eindhoven",
+    "code": "GM0772",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 117,
+    "naam": "Elburg",
+    "code": "GM0230",
+    "oko_id": 20,
+    "oko_sinds": "2023",
+    "opm1": "Maakt deel uit van de OKO-regio Noord-Veluwe",
+    "opm2": null
+  },
+  {
+    "id": 118,
+    "naam": "Emmen",
+    "code": "GM0114",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 119,
+    "naam": "Enkhuizen",
+    "code": "GM0388",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 120,
+    "naam": "Enschede",
+    "code": "GM0153",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 121,
+    "naam": "Epe",
+    "code": "GM0232",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 122,
+    "naam": "Ermelo",
+    "code": "GM0233",
+    "oko_id": 23,
+    "oko_sinds": "2023",
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 123,
+    "naam": "Etten-Leur",
+    "code": "GM0777",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 124,
+    "naam": "Ferwerderadiel",
+    "code": "GM1722",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 125,
+    "naam": "Franekeradeel",
+    "code": "GM0070",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 126,
+    "naam": "Gaasterlân-Sleat",
+    "code": "GM0653",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 127,
+    "naam": "Geertruidenberg",
+    "code": "GM0779",
+    "oko_id": 60,
+    "oko_sinds": "2024",
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 128,
+    "naam": "Geldermalsen",
+    "code": "GM0236",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 129,
+    "naam": "Geldrop-Mierlo",
+    "code": "GM1771",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 130,
+    "naam": "Gemert-Bakel",
+    "code": "GM1652",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 131,
+    "naam": "Gennep",
+    "code": "GM0907",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 132,
+    "naam": "Giessenlanden",
+    "code": "GM0689",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 133,
+    "naam": "Gilze en Rijen",
+    "code": "GM0784",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 134,
+    "naam": "Goedereede",
+    "code": "GM0511",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 135,
+    "naam": "Goeree-Overflakkee",
+    "code": "GM1924",
+    "oko_id": 12,
+    "oko_sinds": "2021",
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 136,
+    "naam": "Goes",
+    "code": "GM0664",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 137,
+    "naam": "Goirle",
+    "code": "GM0785",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 138,
+    "naam": "Gooise Meren",
+    "code": "GM1942",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 139,
+    "naam": "Gorinchem",
+    "code": "GM0512",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 140,
+    "naam": "Gouda",
+    "code": "GM0513",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 141,
+    "naam": "Graafstroom",
+    "code": "GM0693",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 142,
+    "naam": "Graft-De Rijp",
+    "code": "GM0365",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 143,
+    "naam": "Grave",
+    "code": "GM0786",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 144,
+    "naam": "Groesbeek",
+    "code": "GM0241",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 145,
+    "naam": "Groningen",
+    "code": "GM0014",
+    "oko_id": 63,
+    "oko_sinds": "2024",
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 146,
+    "naam": "Grootegast",
+    "code": "GM0015",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 147,
+    "naam": "Gulpen-Wittem",
+    "code": "GM1729",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 148,
+    "naam": "Haaksbergen",
+    "code": "GM0158",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 149,
+    "naam": "Haaren",
+    "code": "GM0788",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 150,
+    "naam": "Haarlem",
+    "code": "GM0392",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 151,
+    "naam": "Haarlemmerliede en Spaarnwoude",
+    "code": "GM0393",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 152,
+    "naam": "Haarlemmermeer",
+    "code": "GM0394",
+    "oko_id": 13,
+    "oko_sinds": "2023",
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 153,
+    "naam": "Halderberge",
+    "code": "GM1655",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 154,
+    "naam": "Hardenberg",
+    "code": "GM0160",
+    "oko_id": 14,
+    "oko_sinds": "2018",
+    "opm1": null,
+    "opm2": "was één van de pilot-gemeenten van het IJslandse model."
+  },
+  {
+    "id": 155,
+    "naam": "Harderwijk",
+    "code": "GM0243",
+    "oko_id": 23,
+    "oko_sinds": "2023",
+    "opm1": "Maakt deel uit van de OKO-regio Noord-Veluwe",
+    "opm2": null
+  },
+  {
+    "id": 156,
+    "naam": "Hardinxveld-Giessendam",
+    "code": "GM0523",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 157,
+    "naam": "Haren",
+    "code": "GM0017",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 158,
+    "naam": "Harenkarspel",
+    "code": "GM0395",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 159,
+    "naam": "Harlingen",
+    "code": "GM0072",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 160,
+    "naam": "Hattem",
+    "code": "GM0244",
+    "oko_id": 66,
+    "oko_sinds": "2023",
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 161,
+    "naam": "Heemskerk",
+    "code": "GM0396",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 162,
+    "naam": "Heemstede",
+    "code": "GM0397",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 163,
+    "naam": "Heerde",
+    "code": "GM0246",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 164,
+    "naam": "Heerenveen",
+    "code": "GM0074",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 165,
+    "naam": "Heerhugowaard",
+    "code": "GM0398",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 166,
+    "naam": "Heerlen",
+    "code": "GM0917",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 167,
+    "naam": "Heeze-Leende",
+    "code": "GM1658",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 168,
+    "naam": "Heiloo",
+    "code": "GM0399",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 169,
+    "naam": "Hellendoorn",
+    "code": "GM0163",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 170,
+    "naam": "Hellevoetsluis",
+    "code": "GM0530",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 171,
+    "naam": "Helmond",
+    "code": "GM0794",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 172,
+    "naam": "Hendrik-Ido-Ambacht",
+    "code": "GM0531",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 173,
+    "naam": "Hengelo",
+    "code": "GM0164",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 174,
+    "naam": "Het Hogeland",
+    "code": "GM1966",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 175,
+    "naam": "Heumen",
+    "code": "GM0252",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 176,
+    "naam": "Heusden",
+    "code": "GM0797",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 177,
+    "naam": "Hillegom",
+    "code": "GM0534",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 178,
+    "naam": "Hilvarenbeek",
+    "code": "GM0798",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 179,
+    "naam": "Hilversum",
+    "code": "GM0402",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 180,
+    "naam": "Hoeksche Waard",
+    "code": "GM1963",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 181,
+    "naam": "Hof van Twente",
+    "code": "GM1735",
+    "oko_id": 84,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 182,
+    "naam": "Hollands Kroon",
+    "code": "GM1911",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 183,
+    "naam": "Hoogeveen",
+    "code": "GM0118",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 184,
+    "naam": "Hoogezand-Sappemeer",
+    "code": "GM0018",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 185,
+    "naam": "Hoorn",
+    "code": "GM0405",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 186,
+    "naam": "Horst aan de Maas",
+    "code": "GM1507",
+    "oko_id": 16,
+    "oko_sinds": "2021",
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 187,
+    "naam": "Houten",
+    "code": "GM0321",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 188,
+    "naam": "Huizen",
+    "code": "GM0406",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 189,
+    "naam": "Hulst",
+    "code": "GM0677",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 190,
+    "naam": "IJsselstein",
+    "code": "GM0353",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 191,
+    "naam": "Kaag en Braassem",
+    "code": "GM1884",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 192,
+    "naam": "Kampen",
+    "code": "GM0166",
+    "oko_id": 17,
+    "oko_sinds": "2023",
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 193,
+    "naam": "Kapelle",
+    "code": "GM0678",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 194,
+    "naam": "Katwijk",
+    "code": "GM0537",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 195,
+    "naam": "Kerkrade",
+    "code": "GM0928",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 196,
+    "naam": "Koggenland",
+    "code": "GM1598",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 197,
+    "naam": "Kollumerland en Nieuwkruisland",
+    "code": "GM0079",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 198,
+    "naam": "Korendijk",
+    "code": "GM0588",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 199,
+    "naam": "Krimpen aan den IJssel",
+    "code": "GM0542",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 200,
+    "naam": "Krimpenerwaard",
+    "code": "GM1931",
+    "oko_id": 95,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 201,
+    "naam": "Laarbeek",
+    "code": "GM1659",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 202,
+    "naam": "Landerd",
+    "code": "GM1685",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 203,
+    "naam": "Landgraaf",
+    "code": "GM0882",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 204,
+    "naam": "Landsmeer",
+    "code": "GM0415",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 205,
+    "naam": "Langedijk",
+    "code": "GM0416",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 206,
+    "naam": "Lansingerland",
+    "code": "GM1621",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 207,
+    "naam": "Laren",
+    "code": "GM0417",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 208,
+    "naam": "Leek",
+    "code": "GM0022",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 209,
+    "naam": "Leerdam",
+    "code": "GM0545",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 210,
+    "naam": "Leeuwarden",
+    "code": "GM0080",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 211,
+    "naam": "Leeuwarderadeel",
+    "code": "GM0081",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 212,
+    "naam": "Leiden",
+    "code": "GM0546",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 213,
+    "naam": "Leiderdorp",
+    "code": "GM0547",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 214,
+    "naam": "Leidschendam-Voorburg",
+    "code": "GM1916",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 215,
+    "naam": "Lelystad",
+    "code": "GM0995",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 216,
+    "naam": "Lemsterland",
+    "code": "GM0082",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 217,
+    "naam": "Leudal",
+    "code": "GM1640",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 218,
+    "naam": "Leusden",
+    "code": "GM0327",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 219,
+    "naam": "Liesveld",
+    "code": "GM0694",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 220,
+    "naam": "Lingewaal",
+    "code": "GM0733",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 221,
+    "naam": "Lingewaard",
+    "code": "GM1705",
+    "oko_id": 101,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 222,
+    "naam": "Lisse",
+    "code": "GM0553",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 223,
+    "naam": "Lith",
+    "code": "GM0808",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 224,
+    "naam": "Littenseradiel",
+    "code": "GM0140",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 225,
+    "naam": "Lochem",
+    "code": "GM0262",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 226,
+    "naam": "Loenen",
+    "code": "GM0329",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 227,
+    "naam": "Loon op Zand",
+    "code": "GM0809",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 228,
+    "naam": "Lopik",
+    "code": "GM0331",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 229,
+    "naam": "Loppersum",
+    "code": "GM0024",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 230,
+    "naam": "Losser",
+    "code": "GM0168",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 231,
+    "naam": "Maarssen",
+    "code": "GM0333",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 232,
+    "naam": "Maasdonk",
+    "code": "GM1671",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 233,
+    "naam": "Maasdriel",
+    "code": "GM0263",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 234,
+    "naam": "Maasgouw",
+    "code": "GM1641",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 235,
+    "naam": "Maassluis",
+    "code": "GM0556",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 236,
+    "naam": "Maastricht",
+    "code": "GM0935",
+    "oko_id": 18,
+    "oko_sinds": "2021",
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 237,
+    "naam": "Margraten",
+    "code": "GM0936",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 238,
+    "naam": "Marum",
+    "code": "GM0025",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 239,
+    "naam": "Medemblik",
+    "code": "GM0420",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 240,
+    "naam": "Meerssen",
+    "code": "GM0938",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 241,
+    "naam": "Meierijstad",
+    "code": "GM1948",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 242,
+    "naam": "Menaldumadeel",
+    "code": "GM0083",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 243,
+    "naam": "Menameradiel",
+    "code": "GM1908",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 244,
+    "naam": "Menterwolde",
+    "code": "GM1987",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 245,
+    "naam": "Meppel",
+    "code": "GM0119",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 246,
+    "naam": "Middelburg",
+    "code": "GM0687",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 247,
+    "naam": "Middelharnis",
+    "code": "GM0559",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 248,
+    "naam": "Midden-Delfland",
+    "code": "GM1842",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 249,
+    "naam": "Midden-Drenthe",
+    "code": "GM1731",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 250,
+    "naam": "Midden-Groningen",
+    "code": "GM1952",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 251,
+    "naam": "Mill en Sint Hubert",
+    "code": "GM0815",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 252,
+    "naam": "Millingen aan de Rijn",
+    "code": "GM0265",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 253,
+    "naam": "Moerdijk",
+    "code": "GM1709",
+    "oko_id": 104,
+    "oko_sinds": "2025",
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 254,
+    "naam": "Molenlanden",
+    "code": "GM1978",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 255,
+    "naam": "Molenwaard",
+    "code": "GM1927",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 256,
+    "naam": "Montferland",
+    "code": "GM1955",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 257,
+    "naam": "Montfoort",
+    "code": "GM0335",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 258,
+    "naam": "Mook en Middelaar",
+    "code": "GM0944",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 259,
+    "naam": "Muiden",
+    "code": "GM0424",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 260,
+    "naam": "Naarden",
+    "code": "GM0425",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 261,
+    "naam": "Neder-Betuwe",
+    "code": "GM1740",
+    "oko_id": 69,
+    "oko_sinds": "2024",
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 262,
+    "naam": "Nederlek",
+    "code": "GM0643",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 263,
+    "naam": "Nederweert",
+    "code": "GM0946",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 264,
+    "naam": "Neerijnen",
+    "code": "GM0304",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 265,
+    "naam": "Niedorp",
+    "code": "GM0412",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 266,
+    "naam": "Nieuw-Lekkerland",
+    "code": "GM0571",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 267,
+    "naam": "Nieuwegein",
+    "code": "GM0356",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 268,
+    "naam": "Nieuwkoop",
+    "code": "GM0569",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 269,
+    "naam": "Nijefurd",
+    "code": "GM0104",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 270,
+    "naam": "Nijkerk",
+    "code": "GM0267",
+    "oko_id": 19,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 271,
+    "naam": "Nijmegen",
+    "code": "GM0268",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 272,
+    "naam": "Nissewaard",
+    "code": "GM1930",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 273,
+    "naam": "Noardeast-Fryslân",
+    "code": "GM1970",
+    "oko_id": 37,
+    "oko_sinds": "2024",
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 274,
+    "naam": "Noord-Beveland",
+    "code": "GM1695",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 275,
+    "naam": "Noordenveld",
+    "code": "GM1699",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 276,
+    "naam": "Noordoostpolder",
+    "code": "GM0171",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 277,
+    "naam": "Noordwijk",
+    "code": "GM0575",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 278,
+    "naam": "Noordwijkerhout",
+    "code": "GM0576",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 279,
+    "naam": "Nuenen, Gerwen en Nederwetten",
+    "code": "GM0820",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 280,
+    "naam": "Nunspeet",
+    "code": "GM0302",
+    "oko_id": 20,
+    "oko_sinds": "2023",
+    "opm1": "Maakt deel uit van de OKO-regio Noord-Veluwe",
+    "opm2": null
+  },
+  {
+    "id": 281,
+    "naam": "Nuth",
+    "code": "GM0951",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 282,
+    "naam": "Oegstgeest",
+    "code": "GM0579",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 283,
+    "naam": "Oirschot",
+    "code": "GM0823",
+    "oko_id": 92,
+    "oko_sinds": "2025",
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 284,
+    "naam": "Oisterwijk",
+    "code": "GM0824",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 285,
+    "naam": "Oldambt",
+    "code": "GM1895",
+    "oko_id": 21,
+    "oko_sinds": "2021",
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 286,
+    "naam": "Oldebroek",
+    "code": "GM0269",
+    "oko_id": 20,
+    "oko_sinds": "2023",
+    "opm1": "Maakt deel uit van de OKO-regio Noord-Veluwe",
+    "opm2": null
+  },
+  {
+    "id": 287,
+    "naam": "Oldenzaal",
+    "code": "GM0173",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 288,
+    "naam": "Olst-Wijhe",
+    "code": "GM1773",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 289,
+    "naam": "Ommen",
+    "code": "GM0175",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 290,
+    "naam": "Onderbanken",
+    "code": "GM0881",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 291,
+    "naam": "Oost Gelre",
+    "code": "GM1586",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 292,
+    "naam": "Oosterhout",
+    "code": "GM0826",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 293,
+    "naam": "Oostflakkee",
+    "code": "GM0580",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 294,
+    "naam": "Ooststellingwerf",
+    "code": "GM0085",
+    "oko_id": 46,
+    "oko_sinds": "2024",
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 295,
+    "naam": "Oostzaan",
+    "code": "GM0431",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 296,
+    "naam": "Opmeer",
+    "code": "GM0432",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 297,
+    "naam": "Opsterland",
+    "code": "GM0086",
+    "oko_id": 72,
+    "oko_sinds": "2021",
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 298,
+    "naam": "Oss",
+    "code": "GM0828",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 299,
+    "naam": "Oud-Beijerland",
+    "code": "GM0584",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 300,
+    "naam": "Oude IJsselstreek",
+    "code": "GM1509",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 301,
+    "naam": "Ouder-Amstel",
+    "code": "GM0437",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 302,
+    "naam": "Ouderkerk",
+    "code": "GM0644",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 303,
+    "naam": "Oudewater",
+    "code": "GM0589",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 304,
+    "naam": "Overbetuwe",
+    "code": "GM1734",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 305,
+    "naam": "Papendrecht",
+    "code": "GM0590",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 306,
+    "naam": "Peel en Maas",
+    "code": "GM1894",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 307,
+    "naam": "Pekela",
+    "code": "GM0765",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 308,
+    "naam": "Pijnacker-Nootdorp",
+    "code": "GM1926",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 309,
+    "naam": "Purmerend",
+    "code": "GM0439",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 310,
+    "naam": "Putten",
+    "code": "GM0273",
+    "oko_id": 23,
+    "oko_sinds": "2023",
+    "opm1": "Maakt deel uit van de OKO-regio Noord-Veluwe",
+    "opm2": null
+  },
+  {
+    "id": 311,
+    "naam": "Raalte",
+    "code": "GM0177",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 312,
+    "naam": "Reeuwijk",
+    "code": "GM0595",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 313,
+    "naam": "Reimerswaal",
+    "code": "GM0703",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 314,
+    "naam": "Renkum",
+    "code": "GM0274",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 315,
+    "naam": "Renswoude",
+    "code": "GM0339",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 316,
+    "naam": "Reusel-De Mierden",
+    "code": "GM1667",
+    "oko_id": 33,
+    "oko_sinds": "2018",
+    "opm1": "Doet mee als onderdeel van de OKO-regio De Kempen",
+    "opm2": "was één van de pilot-gemeenten van het IJslandse model."
+  },
+  {
+    "id": 317,
+    "naam": "Rheden",
+    "code": "GM0275",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 318,
+    "naam": "Rhenen",
+    "code": "GM0340",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 319,
+    "naam": "Ridderkerk",
+    "code": "GM0597",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 320,
+    "naam": "Rijnwaarden",
+    "code": "GM0196",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 321,
+    "naam": "Rijnwoude",
+    "code": "GM1672",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 322,
+    "naam": "Rijssen-Holten",
+    "code": "GM1742",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 323,
+    "naam": "Rijswijk",
+    "code": "GM0603",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 324,
+    "naam": "Roerdalen",
+    "code": "GM1669",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 325,
+    "naam": "Roermond",
+    "code": "GM0957",
+    "oko_id": 75,
+    "oko_sinds": "2024",
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 326,
+    "naam": "Roosendaal",
+    "code": "GM1674",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 327,
+    "naam": "Rotterdam",
+    "code": "GM0599",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 328,
+    "naam": "Rozenburg",
+    "code": "GM0600",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 329,
+    "naam": "Rozendaal",
+    "code": "GM0277",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 330,
+    "naam": "Rucphen",
+    "code": "GM0840",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 331,
+    "naam": "Schagen",
+    "code": "GM0441",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 332,
+    "naam": "Schermer",
+    "code": "GM0458",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 333,
+    "naam": "Scherpenzeel",
+    "code": "GM0279",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 334,
+    "naam": "Schiedam",
+    "code": "GM0606",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 335,
+    "naam": "Schiermonnikoog",
+    "code": "GM0088",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 336,
+    "naam": "Schijndel",
+    "code": "GM0844",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 337,
+    "naam": "Schinnen",
+    "code": "GM0962",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 338,
+    "naam": "Schoonhoven",
+    "code": "GM0608",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 339,
+    "naam": "Schouwen-Duiveland",
+    "code": "GM1676",
+    "oko_id": 25,
+    "oko_sinds": "2021",
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 340,
+    "naam": "Simpelveld",
+    "code": "GM0965",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 341,
+    "naam": "Sint Anthonis",
+    "code": "GM1702",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 342,
+    "naam": "Sint-Michielsgestel",
+    "code": "GM0845",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 343,
+    "naam": "Sint-Oedenrode",
+    "code": "GM0846",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 344,
+    "naam": "Sittard-Geleen",
+    "code": "GM1883",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 345,
+    "naam": "Skarsterlân",
+    "code": "GM0051",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 346,
+    "naam": "Sliedrecht",
+    "code": "GM0610",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 347,
+    "naam": "Slochteren",
+    "code": "GM0040",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 348,
+    "naam": "Sluis",
+    "code": "GM1714",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 349,
+    "naam": "Smallingerland",
+    "code": "GM0090",
+    "oko_id": 26,
+    "oko_sinds": "2023",
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 350,
+    "naam": "Sneek",
+    "code": "GM0091",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 351,
+    "naam": "Soest",
+    "code": "GM0342",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 352,
+    "naam": "Someren",
+    "code": "GM0847",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 353,
+    "naam": "Son en Breugel",
+    "code": "GM0848",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 354,
+    "naam": "Spijkenisse",
+    "code": "GM0612",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 355,
+    "naam": "Stadskanaal",
+    "code": "GM0037",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 356,
+    "naam": "Staphorst",
+    "code": "GM0180",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 357,
+    "naam": "Stede Broec",
+    "code": "GM0532",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 358,
+    "naam": "Steenbergen",
+    "code": "GM0851",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 359,
+    "naam": "Steenwijkerland",
+    "code": "GM1708",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 360,
+    "naam": "Stein",
+    "code": "GM0971",
+    "oko_id": 27,
+    "oko_sinds": "2023",
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 361,
+    "naam": "Stichtse Vecht",
+    "code": "GM1904",
+    "oko_id": 87,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 362,
+    "naam": "Strijen",
+    "code": "GM0617",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 363,
+    "naam": "Sudwest Fryslan",
+    "code": "GM1900",
+    "oko_id": 28,
+    "oko_sinds": "2018",
+    "opm1": null,
+    "opm2": "was één van de pilot-gemeenten van het IJslandse model."
+  },
+  {
+    "id": 364,
+    "naam": "Ten Boer",
+    "code": "GM0009",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 365,
+    "naam": "Terneuzen",
+    "code": "GM0715",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 366,
+    "naam": "Terschelling",
+    "code": "GM0093",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 367,
+    "naam": "Texel",
+    "code": "GM0448",
+    "oko_id": 29,
+    "oko_sinds": "2018",
+    "opm1": null,
+    "opm2": "was één van de pilot-gemeenten van het IJslandse model."
+  },
+  {
+    "id": 368,
+    "naam": "Teylingen",
+    "code": "GM1525",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 369,
+    "naam": "Tholen",
+    "code": "GM0716",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 370,
+    "naam": "Tiel",
+    "code": "GM0281",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 371,
+    "naam": "Tilburg",
+    "code": "GM0855",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 372,
+    "naam": "Tubbergen",
+    "code": "GM0183",
+    "oko_id": 6,
+    "oko_sinds": "2021",
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 373,
+    "naam": "Twenterand",
+    "code": "GM1700",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 374,
+    "naam": "Tynaarlo",
+    "code": "GM1730",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 375,
+    "naam": "Tytsjerksteradiel",
+    "code": "GM0737",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 376,
+    "naam": "Ubbergen",
+    "code": "GM0282",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 377,
+    "naam": "Uden",
+    "code": "GM0856",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 378,
+    "naam": "Uitgeest",
+    "code": "GM0450",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 379,
+    "naam": "Uithoorn",
+    "code": "GM0451",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 380,
+    "naam": "Urk",
+    "code": "GM0184",
+    "oko_id": 31,
+    "oko_sinds": "2018",
+    "opm1": null,
+    "opm2": "was één van de pilot-gemeenten van het IJslandse model."
+  },
+  {
+    "id": 381,
+    "naam": "Utrecht",
+    "code": "GM0344",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 382,
+    "naam": "Utrechtse Heuvelrug",
+    "code": "GM1581",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 383,
+    "naam": "Vaals",
+    "code": "GM0981",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 384,
+    "naam": "Valkenburg aan de Geul",
+    "code": "GM0994",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 385,
+    "naam": "Valkenswaard",
+    "code": "GM0858",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 386,
+    "naam": "Veendam",
+    "code": "GM0047",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 387,
+    "naam": "Veenendaal",
+    "code": "GM0345",
+    "oko_id": 54,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 388,
+    "naam": "Veere",
+    "code": "GM0717",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 389,
+    "naam": "Veghel",
+    "code": "GM0860",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 390,
+    "naam": "Veldhoven",
+    "code": "GM0861",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 391,
+    "naam": "Velsen",
+    "code": "GM0453",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 392,
+    "naam": "Venlo",
+    "code": "GM0983",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 393,
+    "naam": "Venray",
+    "code": "GM0984",
+    "oko_id": 78,
+    "oko_sinds": "2024",
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 394,
+    "naam": "Vianen",
+    "code": "GM0620",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 395,
+    "naam": "Vijfheerenlanden",
+    "code": "GM1961",
+    "oko_id": 32,
+    "oko_sinds": "2021",
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 396,
+    "naam": "Vlaardingen",
+    "code": "GM0622",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 397,
+    "naam": "Vlagtwedde",
+    "code": "GM0048",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 398,
+    "naam": "Vlieland",
+    "code": "GM0096",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 399,
+    "naam": "Vlissingen",
+    "code": "GM0718",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 400,
+    "naam": "Vlist",
+    "code": "GM0623",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 401,
+    "naam": "Voerendaal",
+    "code": "GM0986",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 402,
+    "naam": "Voorschoten",
+    "code": "GM0626",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 403,
+    "naam": "Voorst",
+    "code": "GM0285",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 404,
+    "naam": "Vught",
+    "code": "GM0865",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 405,
+    "naam": "Waadhoeke",
+    "code": "GM1949",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 406,
+    "naam": "Waalre",
+    "code": "GM0866",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 407,
+    "naam": "Waalwijk",
+    "code": "GM0867",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 408,
+    "naam": "Waddinxveen",
+    "code": "GM0627",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 409,
+    "naam": "Wageningen",
+    "code": "GM0289",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 410,
+    "naam": "Wassenaar",
+    "code": "GM0629",
+    "oko_id": 81,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 411,
+    "naam": "Waterland",
+    "code": "GM0852",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 412,
+    "naam": "Weert",
+    "code": "GM0988",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 413,
+    "naam": "Weesp",
+    "code": "GM0457",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 414,
+    "naam": "Werkendam",
+    "code": "GM0870",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 415,
+    "naam": "Wervershoof",
+    "code": "GM0459",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 416,
+    "naam": "West Betuwe",
+    "code": "GM1960",
+    "oko_id": 107,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 417,
+    "naam": "West Maas en Waal",
+    "code": "GM0668",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 418,
+    "naam": "Westerkwartier",
+    "code": "GM1969",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 419,
+    "naam": "Westerveld",
+    "code": "GM1701",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 420,
+    "naam": "Westervoort",
+    "code": "GM0293",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 421,
+    "naam": "Westerwolde",
+    "code": "GM1950",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 422,
+    "naam": "Westland",
+    "code": "GM1783",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 423,
+    "naam": "Weststellingwerf",
+    "code": "GM0098",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 424,
+    "naam": "Westvoorne",
+    "code": "GM0614",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 425,
+    "naam": "Wierden",
+    "code": "GM0189",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 426,
+    "naam": "Wieringen",
+    "code": "GM0462",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 427,
+    "naam": "Wieringermeer",
+    "code": "GM0463",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 428,
+    "naam": "Wijchen",
+    "code": "GM0296",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 429,
+    "naam": "Wijdemeren",
+    "code": "GM1696",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 430,
+    "naam": "Wijk bij Duurstede",
+    "code": "GM0352",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 431,
+    "naam": "Winsum",
+    "code": "GM0053",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 432,
+    "naam": "Winterswijk",
+    "code": "GM0294",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 433,
+    "naam": "Woensdrecht",
+    "code": "GM0873",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 434,
+    "naam": "Woerden",
+    "code": "GM0632",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 435,
+    "naam": "Wormerland",
+    "code": "GM0880",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 436,
+    "naam": "Woudenberg",
+    "code": "GM0351",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 437,
+    "naam": "Woudrichem",
+    "code": "GM0874",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 438,
+    "naam": "Wymbritseradiel",
+    "code": "GM0683",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 439,
+    "naam": "Wûnseradiel",
+    "code": "GM0710",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 440,
+    "naam": "Zaanstad",
+    "code": "GM0479",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 441,
+    "naam": "Zaltbommel",
+    "code": "GM0297",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 442,
+    "naam": "Zandvoort",
+    "code": "GM0473",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 443,
+    "naam": "Zederik",
+    "code": "GM0707",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 444,
+    "naam": "Zeevang",
+    "code": "GM0478",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 445,
+    "naam": "Zeewolde",
+    "code": "GM0050",
+    "oko_id": 52,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 446,
+    "naam": "Zeist",
+    "code": "GM0355",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 447,
+    "naam": "Zevenaar",
+    "code": "GM0299",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 448,
+    "naam": "Zijpe",
+    "code": "GM0476",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 449,
+    "naam": "Zoetermeer",
+    "code": "GM0637",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 450,
+    "naam": "Zoeterwoude",
+    "code": "GM0638",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 451,
+    "naam": "Zuidhorn",
+    "code": "GM0056",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 452,
+    "naam": "Zuidplas",
+    "code": "GM1892",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 453,
+    "naam": "Zundert",
+    "code": "GM0879",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 454,
+    "naam": "Zutphen",
+    "code": "GM0301",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 455,
+    "naam": "Zwartewaterland",
+    "code": "GM1896",
+    "oko_id": 40,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 456,
+    "naam": "Zwijndrecht",
+    "code": "GM0642",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 457,
+    "naam": "Zwolle",
+    "code": "GM0193",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 458,
+    "naam": "het Bildt",
+    "code": "GM0063",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 459,
+    "naam": "Eemsdelta",
+    "code": "GM1979",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 460,
+    "naam": "Dijk en Waard",
+    "code": "GM1980",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 461,
+    "naam": "Land van Cuijk",
+    "code": "GM1982",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 462,
+    "naam": "Maashorst",
+    "code": "GM1991",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  },
+  {
+    "id": 463,
+    "naam": "Voorne aan Zee",
+    "code": "GM1992",
+    "oko_id": 0,
+    "oko_sinds": null,
+    "opm1": null,
+    "opm2": null
+  }
+]
