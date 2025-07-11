@@ -31,10 +31,21 @@
  */
 
 // first make sure this file is called as part of WP
-ini_set('display_errors', 'Off');
+ini_set('display_errors', 'On');
 defined('ABSPATH') or die('Hej då');
 
-$plugin_root = substr(plugin_dir_path(__FILE__), 0, -5) . "/";
+require plugin_dir_path(__FILE__) . 'plugin-update-checker/plugin-update-checker.php';
+
+use YahnisElsts\PluginUpdateChecker\v5\PucFactory;
+
+$updateChecker = PucFactory::buildUpdateChecker(
+    'https://github.com/ejdewilde/oko-kaart/',
+    __FILE__,
+    'oko-kaart'
+);
+
+$updateChecker->setBranch('main'); // of 'master' als je dat gebruikt
+$updateChecker->getVcsApi()->enableReleaseAssets();
 
 function okomap_start($atts)
 {
