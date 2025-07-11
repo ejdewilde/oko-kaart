@@ -3,19 +3,19 @@
 /**
  * OKO  interactieve kaart voor Wordpress
  * @package      oko-map
- * @link         https://www.hansei.nl/plugins/oko-map/
+ * @link         https://www.hansei.nl/plugins/okomap/
  * @author       Erik Jan de Wilde <ej@hansei.nl>
- * @copyright    2023 Erik Jan de Wilde
+ * @copyright    2025 Erik Jan de Wilde
  * @license      GPL v2 or later
  * Plugin Name:  OKO interactieve kaart
- * Description:  OKO interactieve kaart
- * Version:      1.5
+ * Description:  Toont de Nederlandse gemeentekaart met informatie over gemeenten die meedoen aan OKO
+ * Version:      1.0.0
  * Plugin URI:   https://www.hansei.nl/plugins
- * Author:       Erik Jan de Wilde, (c) 2023, HanSei
+ * Author:       Erik Jan de Wilde, (c) 2025, HanSei
  * Text Domain:  oko-map
  * Domain Path:  /languages/
  * Network:      true
- * Requires PHP: 5.3
+ * Requires PHP: 7
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -38,11 +38,8 @@ $plugin_root = substr(plugin_dir_path(__FILE__), 0, -5) . "/";
 
 function okomap_start($atts)
 {
-    //echo 'in okomap_starts';
-    include_once "mapvisual.php";
-    //$a       = shortcode_atts(['kenmerk' => 'something'], $atts);
-    //$kenmerk = $a['kenmerk'];
 
+    include_once "mapvisual.php";
     $wat = new okomap_visual();
     $ta  = $wat->get_interface();
 }

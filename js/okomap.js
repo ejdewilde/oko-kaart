@@ -3,6 +3,7 @@ const dataUrl = '../wp-content/plugins/oko-kaart/js/oko_gemeenten_kaart.json';
 
 let geojsonData = null;
 let deelnemendeGemeenten = [];
+let geselecteerdeGemeente = null;
 
 Promise.all([
     fetch(geojsonUrl).then(res => res.json()),
@@ -11,17 +12,24 @@ Promise.all([
     geojsonData = geoData;
 
     deelnemendeGemeenten = gemeenteData.filter(g => g.oko_id);
-    const jaren = [...new Set(deelnemendeGemeenten.map(g => g.oko_sinds).filter(Boolean))].sort();
+    const jaren = [...new Set(
+        deelnemendeGemeenten
+            .map(g => parseInt(g.oko_sinds, 10))
+            .filter(j => !isNaN(j))
+    )].sort((a, b) => a - b);
+
     const buttonContainer = document.getElementById('oko-buttons');
 
     // Voeg de knop 'Alle jaren' toe
-    [''].concat(jaren).forEach(j => {
+
+    jaren.forEach(j => {
         const btn = document.createElement('button');
-        btn.textContent = j || 'Alle jaren';
+        btn.textContent = j;
         btn.dataset.jaar = j;
         btn.classList.add('oko-filter-button');
         buttonContainer.appendChild(btn);
     });
+
 
 
     buttonContainer.addEventListener('click', e => {
@@ -65,8 +73,7 @@ function renderMap(gemeenteData, filterJaar = '') {
 
     });
     console.log(mapData.filter(d => d.value === null));
-    Highcharts.mapChart('gemscan-map', {
-
+    Highcharts.mapChart('oko-map', {
         chart: { map: geojsonData },
         title: { text: 'OKO-deelname per gemeente' },
         colorAxis: {
@@ -80,12 +87,11 @@ function renderMap(gemeenteData, filterJaar = '') {
                 name: 'Deelname'
             }]
         },
-
-
         legend: {
             enabled: false
         },
-        tooltip: {
+
+        /*tooltip: {
             formatter() {
                 const { name, jaar, opm1, opm2 } = this.point.options;
 
@@ -98,7 +104,48 @@ function renderMap(gemeenteData, filterJaar = '') {
                 if (opm2) html += `<br/><em>${opm2}</em>`;
                 return html;
             }
+        }*/
+        tooltip: {
+            formatter() {
+                return `<b>${this.point.name}</b>`;
+            }
+        },
+        plotOptions: {
+            series: {
+                point: {
+                    events: {
+                        click: function () {
+                            // Reset vorige selectie
+                            if (geselecteerdeGemeente) {
+                                geselecteerdeGemeente.update({ color: null }, true, false);
+                            }
+
+                            // Alleen deelnemers mogen geselecteerd worden
+                            if (this.value === 1) {
+                                this.update({ color: '#ffa500' }, true, false); // Oranje als voorbeeld
+                                geselecteerdeGemeente = this;
+                            } else {
+                                geselecteerdeGemeente = null;
+                            }
+
+                            if (this.value !== 1) return;
+
+                            const { name, jaar, opm1, opm2 } = this.options;
+
+                            let html = `<h3>${name}</h3>`;
+                            html += `<p><strong>Doet mee sinds ${jaar}</strong></p>`;
+
+                            if (opm1) html += `<p>${opm1}</p>`;
+                            if (opm2) html += `<p>${opm2}</p>`;
+
+                            document.getElementById('oko-info').innerHTML = html;
+                        }
+                    }
+                }
+            }
         }
+
+
 
         ,
         series: [{
@@ -113,3 +160,15 @@ function renderMap(gemeenteData, filterJaar = '') {
         }]
     });
 }
+document.getElementById('oko-map').addEventListener('click', function (e) {
+    // Als je op een leeg stuk klikt (niet op een gemeentevlak)
+    if (e.target.nodeName === 'svg' || e.target.closest('.highcharts-background')) {
+        if (geselecteerdeGemeente) {
+            geselecteerdeGemeente.update({ color: null }, true, false);
+            geselecteerdeGemeente = null;
+        }
+
+        // Optioneel: infoveld legen
+        document.getElementById('oko-info').innerHTML = 'Selecteer een gemeente…';
+    }
+});

@@ -18,16 +18,14 @@ function ts($test)
 
 class okomap_visual
 {
+
     public function __construct()
     {
         $this->plugindir = plugin_dir_url(__FILE__);
-        //echo '</br>in map_visual construct';
     }
-
     public function poke_wpdb($sql, $methode)
     {
         global $wpdb;
-        //ts($sql);
         $zql = $wpdb->prepare($sql, "");
         switch ($methode) {
             case 'get_results':
@@ -42,26 +40,27 @@ class okomap_visual
         }
         return $aa;
     }
-
     public function get_interface()
     {
-        //echo '</br>in map_visual get_interface';
         $output = $this->get_style();
         $output .= $this->get_biebs();
+        $output .= ' <div id="oko-container">
+                        <div id="oko-map"></div>
+<div id="oko-sidebar">
 
-        $output .= "<div class = 'parent'>
-                        <div id='oko-buttons' class='button-group'></div>
-                        <div id='gemscan-map'></div>
+  <div id="oko-buttons" class="button-group"></div>
+  <div id="oko-info" class="info-box">Selecteer een gemeente…</div>
+</div>
+
+
                     </div>
-                    <footer>";
 
-        $output .= "<script src='" . $this->plugindir . "js/okomap.js" . "' type='text/javascript' ></script>";
-
+                    <footer>';
+        wp_enqueue_script('oko-map', plugins_url('js/okomap.js', __FILE__), [], '1.0.0', true);
+        //$output .= "<script src='" . $this->plugindir . "js/okomap.js" . "' type='text/javascript' ></script>";
         $output .= "</footer>";
-        //echo 'hallo';
         echo $output;
     }
-
     public function get_biebs()
     {
         $out = "<script src='https://code.highcharts.com/maps/highmaps.js'></script>";

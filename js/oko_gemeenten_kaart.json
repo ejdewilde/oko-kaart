@@ -112,7 +112,7 @@
     "naam": "Almere",
     "code": "GM0034",
     "oko_id": 0,
-    "oko_sinds": null,
+    "oko_sinds": 2025,
     "opm1": null,
     "opm2": null
   },
@@ -139,7 +139,7 @@
     "naam": "Altena",
     "code": "GM1959",
     "oko_id": 1,
-    "oko_sinds": "2021",
+    "oko_sinds": "2022",
     "opm1": null,
     "opm2": null
   },
@@ -274,7 +274,7 @@
     "naam": "Barneveld",
     "code": "GM0203",
     "oko_id": 43,
-    "oko_sinds": "2024",
+    "oko_sinds": "2023",
     "opm1": null,
     "opm2": null
   },
@@ -931,7 +931,7 @@
     "naam": "Drimmelen",
     "code": "GM1719",
     "oko_id": 60,
-    "oko_sinds": null,
+    "oko_sinds": 2024,
     "opm1": null,
     "opm2": null
   },
@@ -985,7 +985,7 @@
     "naam": "Ede",
     "code": "GM0228",
     "oko_id": 8,
-    "oko_sinds": "2024",
+    "oko_sinds": "2022",
     "opm1": null,
     "opm2": null
   },
@@ -1210,7 +1210,7 @@
     "naam": "Goeree-Overflakkee",
     "code": "GM1924",
     "oko_id": 12,
-    "oko_sinds": "2021",
+    "oko_sinds": "2022",
     "opm1": null,
     "opm2": null
   },
@@ -1426,7 +1426,7 @@
     "naam": "Harlingen",
     "code": "GM0072",
     "oko_id": 0,
-    "oko_sinds": null,
+    "oko_sinds": 2025,
     "opm1": null,
     "opm2": null
   },
@@ -1435,7 +1435,7 @@
     "naam": "Hattem",
     "code": "GM0244",
     "oko_id": 66,
-    "oko_sinds": "2023",
+    "oko_sinds": "2024",
     "opm1": null,
     "opm2": null
   },
@@ -1471,7 +1471,7 @@
     "naam": "Heerenveen",
     "code": "GM0074",
     "oko_id": 0,
-    "oko_sinds": null,
+    "oko_sinds": 2025,
     "opm1": null,
     "opm2": null
   },
@@ -1624,7 +1624,7 @@
     "naam": "Hof van Twente",
     "code": "GM1735",
     "oko_id": 84,
-    "oko_sinds": null,
+    "oko_sinds": 2024,
     "opm1": null,
     "opm2": null
   },
@@ -1669,7 +1669,7 @@
     "naam": "Horst aan de Maas",
     "code": "GM1507",
     "oko_id": 16,
-    "oko_sinds": "2021",
+    "oko_sinds": "2022",
     "opm1": null,
     "opm2": null
   },
@@ -1795,7 +1795,7 @@
     "naam": "Krimpenerwaard",
     "code": "GM1931",
     "oko_id": 95,
-    "oko_sinds": null,
+    "oko_sinds": 2025,
     "opm1": null,
     "opm2": null
   },
@@ -1885,7 +1885,7 @@
     "naam": "Leeuwarden",
     "code": "GM0080",
     "oko_id": 0,
-    "oko_sinds": null,
+    "oko_sinds": 2025,
     "opm1": null,
     "opm2": null
   },
@@ -1984,7 +1984,7 @@
     "naam": "Lingewaard",
     "code": "GM1705",
     "oko_id": 101,
-    "oko_sinds": null,
+    "oko_sinds": 2025,
     "opm1": null,
     "opm2": null
   },
@@ -2119,7 +2119,7 @@
     "naam": "Maastricht",
     "code": "GM0935",
     "oko_id": 18,
-    "oko_sinds": "2021",
+    "oko_sinds": "2022",
     "opm1": null,
     "opm2": null
   },
@@ -2425,7 +2425,7 @@
     "naam": "Nijkerk",
     "code": "GM0267",
     "oko_id": 19,
-    "oko_sinds": null,
+    "oko_sinds": 2023,
     "opm1": null,
     "opm2": null
   },
@@ -2452,7 +2452,7 @@
     "naam": "Noardeast-Fryslân",
     "code": "GM1970",
     "oko_id": 37,
-    "oko_sinds": "2024",
+    "oko_sinds": "2023",
     "opm1": null,
     "opm2": null
   },
@@ -2560,7 +2560,7 @@
     "naam": "Oldambt",
     "code": "GM1895",
     "oko_id": 21,
-    "oko_sinds": "2021",
+    "oko_sinds": "2022",
     "opm1": null,
     "opm2": null
   },
@@ -2641,7 +2641,7 @@
     "naam": "Ooststellingwerf",
     "code": "GM0085",
     "oko_id": 46,
-    "oko_sinds": "2024",
+    "oko_sinds": "2023",
     "opm1": null,
     "opm2": null
   },
@@ -2668,7 +2668,7 @@
     "naam": "Opsterland",
     "code": "GM0086",
     "oko_id": 72,
-    "oko_sinds": "2021",
+    "oko_sinds": "2024",
     "opm1": null,
     "opm2": null
   },
@@ -3046,7 +3046,7 @@
     "naam": "Schouwen-Duiveland",
     "code": "GM1676",
     "oko_id": 25,
-    "oko_sinds": "2021",
+    "oko_sinds": "2022",
     "opm1": null,
     "opm2": null
   },
@@ -3244,7 +3244,7 @@
     "naam": "Stichtse Vecht",
     "code": "GM1904",
     "oko_id": 87,
-    "oko_sinds": null,
+    "oko_sinds": 2024,
     "opm1": null,
     "opm2": null
   },
@@ -3343,7 +3343,7 @@
     "naam": "Tubbergen",
     "code": "GM0183",
     "oko_id": 6,
-    "oko_sinds": "2021",
+    "oko_sinds": "2023",
     "opm1": null,
     "opm2": null
   },
@@ -3478,7 +3478,7 @@
     "naam": "Veenendaal",
     "code": "GM0345",
     "oko_id": 54,
-    "oko_sinds": null,
+    "oko_sinds": 2024,
     "opm1": null,
     "opm2": null
   },
@@ -3550,7 +3550,7 @@
     "naam": "Vijfheerenlanden",
     "code": "GM1961",
     "oko_id": 32,
-    "oko_sinds": "2021",
+    "oko_sinds": "2022",
     "opm1": null,
     "opm2": null
   },
@@ -3685,7 +3685,7 @@
     "naam": "Wassenaar",
     "code": "GM0629",
     "oko_id": 81,
-    "oko_sinds": null,
+    "oko_sinds": 2024,
     "opm1": null,
     "opm2": null
   },
@@ -3739,7 +3739,7 @@
     "naam": "West Betuwe",
     "code": "GM1960",
     "oko_id": 107,
-    "oko_sinds": null,
+    "oko_sinds": 2025,
     "opm1": null,
     "opm2": null
   },
@@ -3802,7 +3802,7 @@
     "naam": "Weststellingwerf",
     "code": "GM0098",
     "oko_id": 0,
-    "oko_sinds": null,
+    "oko_sinds": 2024,
     "opm1": null,
     "opm2": null
   },
@@ -4000,7 +4000,7 @@
     "naam": "Zeewolde",
     "code": "GM0050",
     "oko_id": 52,
-    "oko_sinds": null,
+    "oko_sinds": 2023,
     "opm1": null,
     "opm2": null
   },
@@ -4090,7 +4090,7 @@
     "naam": "Zwartewaterland",
     "code": "GM1896",
     "oko_id": 40,
-    "oko_sinds": null,
+    "oko_sinds": 2023,
     "opm1": null,
     "opm2": null
   },
