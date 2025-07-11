@@ -49,7 +49,7 @@ class okomap_visual
 <div id="oko-sidebar">
 
   <div id="oko-buttons" class="button-group"></div>
-  <div id="oko-info" class="info-box">Selecteer een gemeente…</div>
+  <div id="oko-info" class="info-box">Selecteer een gemeente op de kaart voor meer informatie…</div>
 </div>
 
 

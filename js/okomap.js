@@ -107,6 +107,7 @@ function renderMap(gemeenteData, filterJaar = '') {
         }*/
         tooltip: {
             formatter() {
+                if (this.point.value !== 1) return false;  // geen tooltip
                 return `<b>${this.point.name}</b>`;
             }
         },

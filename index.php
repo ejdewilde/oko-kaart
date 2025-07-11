@@ -9,7 +9,7 @@
  * @license      GPL v2 or later
  * Plugin Name:  OKO interactieve kaart
  * Description:  Toont de Nederlandse gemeentekaart met informatie over gemeenten die meedoen aan OKO
- * Version:      1.0.2
+ * Version:      1.0.3
  * Plugin URI:   https://www.hansei.nl/plugins
  * Author:       Erik Jan de Wilde, (c) 2025, HanSei
  * Text Domain:  oko-map
@@ -34,18 +34,32 @@
 ini_set('display_errors', 'On');
 defined('ABSPATH') or die('Hej då');
 
-require plugin_dir_path(__FILE__) . 'plugin-update-checker/plugin-update-checker.php';
+add_action('plugins_loaded', 'oko_kaart_laad_updater');
 
-use YahnisElsts\PluginUpdateChecker\v5\PucFactory;
+function oko_kaart_laad_updater()
+{
+    $pad = plugin_dir_path(__FILE__) . 'plugin-update-checker/plugin-update-checker.php';
 
-$updateChecker = PucFactory::buildUpdateChecker(
-    'https://github.com/ejdewilde/oko-kaart/',
-    __FILE__,
-    'oko-kaart'
-);
+    if (file_exists($pad)) {
+        require_once $pad;
 
-$updateChecker->setBranch('main'); // of 'master' als je dat gebruikt
-$updateChecker->getVcsApi()->enableReleaseAssets();
+        // Gebruik v5 factory
+        if (class_exists('\YahnisElsts\PluginUpdateChecker\v5\PucFactory')) {
+            $updateChecker = \YahnisElsts\PluginUpdateChecker\v5\PucFactory::buildUpdateChecker(
+                'https://github.com/ejdewilde/oko-kaart/',
+                __FILE__,
+                'oko-kaart'
+            );
+
+            $updateChecker->setBranch('main');
+            $updateChecker->getVcsApi()->enableReleaseAssets();
+        } else {
+            error_log('PucFactory class niet gevonden.');
+        }
+    } else {
+        error_log('plugin-update-checker.php niet gevonden op: ' . $pad);
+    }
+}
 
 function okomap_start($atts)
 {
