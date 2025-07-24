@@ -9,7 +9,7 @@
  * @license      GPL v2 or later
  * Plugin Name:  OKO interactieve kaart
  * Description:  Toont de Nederlandse gemeentekaart met informatie over gemeenten die meedoen aan OKO
- * Version:      1.0.3
+ * Version:      1.0.4
  * Plugin URI:   https://www.hansei.nl/plugins
  * Author:       Erik Jan de Wilde, (c) 2025, HanSei
  * Text Domain:  oko-map

@@ -1425,7 +1425,7 @@
     "id": 159,
     "naam": "Harlingen",
     "code": "GM0072",
-    "oko_id": 0,
+    "oko_id": 131,
     "oko_sinds": 2025,
     "opm1": null,
     "opm2": null
@@ -1470,7 +1470,7 @@
     "id": 164,
     "naam": "Heerenveen",
     "code": "GM0074",
-    "oko_id": 0,
+    "oko_id": 134,
     "oko_sinds": 2025,
     "opm1": null,
     "opm2": null
@@ -1884,7 +1884,7 @@
     "id": 210,
     "naam": "Leeuwarden",
     "code": "GM0080",
-    "oko_id": 0,
+    "oko_id": 137,
     "oko_sinds": 2025,
     "opm1": null,
     "opm2": null
@@ -3801,7 +3801,7 @@
     "id": 423,
     "naam": "Weststellingwerf",
     "code": "GM0098",
-    "oko_id": 0,
+    "oko_id": 140,
     "oko_sinds": 2024,
     "opm1": null,
     "opm2": null
