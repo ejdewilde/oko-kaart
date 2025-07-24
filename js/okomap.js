@@ -173,3 +173,9 @@ document.getElementById('oko-map').addEventListener('click', function (e) {
         document.getElementById('oko-info').innerHTML = 'Selecteer een gemeente…';
     }
 });
+
+const chart = Highcharts.mapChart('oko-map', { /* … */ });
+
+window.addEventListener('resize', () => {
+    chart.reflow();
+});

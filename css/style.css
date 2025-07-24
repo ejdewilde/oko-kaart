@@ -2,20 +2,6 @@
   margin-left: 0.5rem;
 }
 
-body {
-  display: flex;
-  font-family: sans-serif;
-  padding: 2rem;
-  flex-direction: column;
-  align-items: center;
-}
-html,
-body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
-}
-
 #oko-container {
   display: flex;
   height: 100vh;
@@ -24,7 +10,7 @@ body {
 }
 
 #oko-map {
-  width: 100%;
+  flex: 1;
   height: 100vh;
 }
 
